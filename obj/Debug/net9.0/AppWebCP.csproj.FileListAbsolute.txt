@@ -124,7 +124,6 @@ C:\Users\labsfiap\Desktop\GestaoComercial\AppWebCP\obj\Debug\net9.0\AppWebCP.Raz
 C:\Users\labsfiap\Desktop\GestaoComercial\AppWebCP\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\labsfiap\Desktop\GestaoComercial\AppWebCP\obj\Debug\net9.0\scopedcss\bundle\AppWebCP.styles.css
 C:\Users\labsfiap\Desktop\GestaoComercial\AppWebCP\obj\Debug\net9.0\scopedcss\projectbundle\AppWebCP.bundle.scp.css
-C:\Users\labsfiap\Desktop\GestaoComercial\AppWebCP\obj\Debug\net9.0\compressed\m3xx8x6h2v-b9sayid5wm.gz
 C:\Users\labsfiap\Desktop\GestaoComercial\AppWebCP\obj\Debug\net9.0\compressed\60t81516u6-61n19gt1b8.gz
 C:\Users\labsfiap\Desktop\GestaoComercial\AppWebCP\obj\Debug\net9.0\compressed\54ps9twtd4-xtxxf3hu2r.gz
 C:\Users\labsfiap\Desktop\GestaoComercial\AppWebCP\obj\Debug\net9.0\compressed\8d7mjcwixl-bqjiyaj88i.gz
@@ -316,3 +315,5 @@ C:\Users\labsfiap\Desktop\GestaoComercial\AppWebCP\bin\Debug\net9.0\tr\Microsoft
 C:\Users\labsfiap\Desktop\GestaoComercial\AppWebCP\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\labsfiap\Desktop\GestaoComercial\AppWebCP\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\labsfiap\Desktop\GestaoComercial\AppWebCP\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\labsfiap\Desktop\GestaoComercial\AppWebCP\obj\Debug\net9.0\AppWebCP.sourcelink.json
+C:\Users\labsfiap\Desktop\GestaoComercial\AppWebCP\obj\Debug\net9.0\compressed\m3xx8x6h2v-3bl4lp90zj.gz

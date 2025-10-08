@@ -29,3 +29,36 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+
+/* Cor do link da marca na barra de navegação */
+.navbar-dark .navbar-brand {
+    color: #fff;
+}
+
+/* Cor do texto do rodapé */
+.footer {
+    color: #333; /* Mantém a cor do texto do rodapé escura para legibilidade */
+}
+
+/* Cor da borda superior do rodapé */
+.border-top {
+    border-top: 1px solid #6a0dad !important;
+}
+
+/* Força a cor dos links da navbar para branco */
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff !important; /* Adicionado !important para garantir a sobreposição */
+}
+
+/* Estilo customizado para o botão roxo */
+.btn-purple {
+    background-color: #6a0dad;
+    color: #fff;
+    border: 1px solid #6a0dad;
+}
+
+    .btn-purple:hover {
+        background-color: #5a0bad;
+        color: #fff;
+        border: 1px solid #5a0bad;
+    }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppWebCP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0011722b93ad6ec0bb2e7a099203fdce8e2fd43a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87c7870803cdc67504469ae7ff0acb5967b54a5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppWebCP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppWebCP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

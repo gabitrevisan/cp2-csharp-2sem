@@ -314,6 +314,6 @@ C:\Users\labsfiap\Desktop\GestaoComercial\AppWebCP\bin\Debug\net9.0\ru\Microsoft
 C:\Users\labsfiap\Desktop\GestaoComercial\AppWebCP\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\labsfiap\Desktop\GestaoComercial\AppWebCP\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\labsfiap\Desktop\GestaoComercial\AppWebCP\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Users\labsfiap\Desktop\GestaoComercial\AppWebCP\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\labsfiap\Desktop\GestaoComercial\AppWebCP\obj\Debug\net9.0\AppWebCP.sourcelink.json
 C:\Users\labsfiap\Desktop\GestaoComercial\AppWebCP\obj\Debug\net9.0\compressed\m3xx8x6h2v-3bl4lp90zj.gz
+C:\Users\labsfiap\Desktop\GestaoComercial\AppWebCP\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

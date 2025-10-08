@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Login";
+    Layout = "_Layout"; // Usa o layout principal
+}
+
+<h2>Login</h2>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Entrar" method="post">
+            <div class="form-group">
+                <label for="email" class="control-label">Email</label>
+                <input name="email" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label for="senha" class="control-label">Senha</label>
+                <input name="senha" type="password" class="form-control" />
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Entrar" class="btn btn-primary" />
+            </div>
+        </form>
+
+        @if (ViewBag.Error != null)
+        {
+            <br />
+            <div class="alert alert-danger">@ViewBag.Error</div>
+        }
+    </div>
+</div>
